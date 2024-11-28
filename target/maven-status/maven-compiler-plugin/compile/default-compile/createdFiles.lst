@@ -1,0 +1,5 @@
+model\Contato.class
+dao\ContatoDAO.class
+com\edu\ufra\pmz\preagenda\resources\JavaEE8Resource.class
+controller\ContatoServlet.class
+util\Conexao.class
